@@ -1,0 +1,9 @@
+Metric,Value
+Covariance method,sample_covariance_no_shrinkage
+Portfolio annual return,4.6%
+Portfolio annual volatility,9.8%
+Benchmark annual return,4.5%
+Benchmark annual volatility,9.8%
+Active return,0.1%
+Tracking error,0.2%
+Information ratio,0.37
